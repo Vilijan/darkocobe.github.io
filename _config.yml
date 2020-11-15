@@ -8,7 +8,7 @@
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 #--------------------------
 
-title: IdoAzure                          # the main title
+title: I do Azure                          # the main title
 
 tagline: The place to be for Azure and more.  # it will display as the sub-title
 
@@ -36,7 +36,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/darkocobe      # change to your twitter homepage
-    - https://github.com/darkocobe       # change to your github homepage
+    #- https://github.com/darkocobe       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     - https://www.linkedin.com/darkotodoroski
