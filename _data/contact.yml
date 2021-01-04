@@ -4,16 +4,17 @@
 #  © 2020 Cotes Chung
 #  MIT Licensed
 
+# icons powered by <https://fontawesome.com/>
 -
   type: github
-  icon: 'fab fa-github-alt'
+  icon: 'fab fa-github' #fa-github-alt
 -
   type: twitter
   icon: 'fab fa-twitter'
 -
   type: email
-  icon: 'fas fa-envelope'
-  noblank: true            # open link in current tab
+  icon: 'far fa-envelope' #fas fa-envelope
+  noblank: true           # open link in current tab
 -
   type: rss
   icon: 'fas fa-rss'
@@ -22,12 +23,12 @@
 # Uncomment and complete the url below to enable more contact options
 # -
 #   type: mastodon
-#   icon: 'fab fa-mastodon'   # icons powered by <https://fontawesome.com/>
+#   icon: 'fab fa-mastodon'   
 #   url:  ''                  # Fill with your mastodon account page
 -
   type: linkedin
-  icon: 'fab fa-linkedin-in'   # icons powered by <https://fontawesome.com/> fab fa-linkedin-in
-  url:  'https://www.linkedin.com/darkotodoroski'                  # Fill with your Linkedin homepage
+  icon: 'fab fa-linkedin-in'   #fab fa-linkedin-in
+  url:  'https://www.linkedin.com/darkotodoroski'
 # -
 #   type: stack-overflow
 #   icon: 'fab fa-stack-overflow'
