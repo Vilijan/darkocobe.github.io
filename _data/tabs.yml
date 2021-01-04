@@ -9,7 +9,7 @@
   name: "Start Here"
   icon: "fas fa-info"
   path: tabs
-  url: about
+  url: start-here
 -
   name: Home
   icon: "fas fa-home"
