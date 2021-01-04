@@ -26,7 +26,7 @@
 #   url:  ''                  # Fill with your mastodon account page
 -
   type: linkedin
-  icon: 'fab fa-linkedin'   # icons powered by <https://fontawesome.com/>
+  icon: 'fab fa-linkedin-in'   # icons powered by <https://fontawesome.com/> fab fa-linkedin-in
   url:  'https://www.linkedin.com/darkotodoroski'                  # Fill with your Linkedin homepage
 # -
 #   type: stack-overflow
