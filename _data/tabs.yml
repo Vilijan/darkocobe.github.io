@@ -6,7 +6,7 @@
 
 
 -
-  name: "About"
+  name: "Start Here"
   icon: "fas fa-info"
   path: tabs
   url: about
