@@ -18,11 +18,7 @@ description: >-                        # used by seo meta and the atom feed
   and focuses on text presentation.
 
 # Replace with the website url, e.g. 'https://username.github.io'
-<<<<<<< HEAD
-#'https://darkocobe.github.io'
-=======
 #https://darkocobe.github.io
->>>>>>> 938d7b2f03aa5655a1d859d6de93927d68ac1f1e
 url: 'https://www.idoazure.nl'
 
 author: Darko Todoroski                  # change to your full name
