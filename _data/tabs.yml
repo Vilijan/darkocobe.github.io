@@ -7,11 +7,11 @@
 
 -
   name: "Start Here"
-  icon: "fas fa-door-open" #fas fa-info
+  icon: "fa-map-pin" #fas fa-info fas  fas fa-door-open
   path: tabs
   url: start-here
 -
-  name: Home
+  name: Blog
   icon: "fas fa-pen-nib" #fas fa-home
 -
   name: Categories
