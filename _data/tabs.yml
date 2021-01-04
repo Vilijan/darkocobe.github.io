@@ -7,7 +7,7 @@
 
 -
   name: "Start Here"
-  icon: "fa-map-pin" #fas fa-info fas  fas fa-door-open
+  icon: "fas fa-map-pin" #fas fa-info fas fa-door-open
   path: tabs
   url: start-here
 -
