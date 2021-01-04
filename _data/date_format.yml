@@ -9,7 +9,7 @@
 #%e = Day
 #%Y = Year
 #%l:%M %p %z = Time AM/PM Hours from my time zone
-tooltip: "%a, %b %e, %Y, %l:%M %p %z"
+tooltip: "%a, %e %b %Y, %l:%M %p %z" #"%a, %b %e, %Y, %l:%M %p %z"
 post:
   long: "%e %b %Y" #%b %e, %Y
   short: "%e %b"

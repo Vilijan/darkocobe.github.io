@@ -5,9 +5,6 @@
 # MIT licensed
 
 
-# jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
-#--------------------------
-
 title: I do Azure                          # the main title
 
 tagline: The place to be for Azure and more.  # it will display as the sub-title
@@ -17,8 +14,6 @@ description: >-                        # used by seo meta and the atom feed
   bootstrap Jekyll theme with responsive web design
   and focuses on text presentation.
 
-# Replace with the website url, e.g. 'https://username.github.io'
-#https://darkocobe.github.io
 url: 'https://www.idoazure.nl'
 
 author: Darko Todoroski                  # change to your full name
@@ -38,7 +33,6 @@ social:
     # The first element serves as the copyright owner's link
     - https://twitter.com/darkocobe      # change to your twitter homepage
     - https://github.com/darkocobe       # change to your github homepage
-    # Uncomment below to add more social links
     # - https://www.facebook.com/username
     - https://www.linkedin.com/in/darkotodoroski/
 
@@ -55,7 +49,7 @@ baseurl: ''
 timezone: Europe/Amsterdam
 
 google_analytics:
-  id: 'G-VCY8X6N8V4'          # Fill with your Google Analytics ID
+  id: 'G-9KL9LV8L6K'          # Fill with your Google Analytics ID
   pv:
     # The Google Analytics pageviews switch.
     # DO NOT enable it unless you know how to deploy the Google Analytics superProxy.
