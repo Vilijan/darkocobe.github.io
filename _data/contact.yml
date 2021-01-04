@@ -6,15 +6,19 @@
 
 # icons powered by <https://fontawesome.com/>
 -
-  type: github
-  icon: 'fab fa-github' #fa-github-alt
--
   type: twitter
   icon: 'fab fa-twitter'
+-
+  type: linkedin
+  icon: 'fab fa-linkedin-in'   #fab fa-linkedin-in
+  url:  'https://www.linkedin.com/in/darkotodoroski/'
 -
   type: email
   icon: 'far fa-envelope' #fas fa-envelope
   noblank: true           # open link in current tab
+-
+  type: github
+  icon: 'fas fa-code-branch' #fab fa-github-alt fab fa-github
 -
   type: rss
   icon: 'fas fa-rss'
@@ -25,10 +29,6 @@
 #   type: mastodon
 #   icon: 'fab fa-mastodon'   
 #   url:  ''                  # Fill with your mastodon account page
--
-  type: linkedin
-  icon: 'fab fa-linkedin-in'   #fab fa-linkedin-in
-  url:  'https://www.linkedin.com/darkotodoroski'
 # -
 #   type: stack-overflow
 #   icon: 'fab fa-stack-overflow'

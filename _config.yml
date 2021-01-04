@@ -37,10 +37,10 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/darkocobe      # change to your twitter homepage
-    #- https://github.com/darkocobe       # change to your github homepage
+    - https://github.com/darkocobe       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/darkotodoroski
+    - https://www.linkedin.com/in/darkotodoroski/
 
 google_site_verification: wokT_-fqlZP2rg4Kn8w0VRDgNpdwZ1X0SQaGPhnRkig # change to your verification string
 
