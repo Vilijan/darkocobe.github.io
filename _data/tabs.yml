@@ -7,12 +7,12 @@
 
 -
   name: "Start Here"
-  icon: "fas fa-info"
+  icon: "fas fa-door-open" #fas fa-info
   path: tabs
   url: start-here
 -
   name: Home
-  icon: "fas fa-home"
+  icon: "fas fa-pen-nib" #fas fa-home
 -
   name: Categories
   icon: "fas fa-stream"
